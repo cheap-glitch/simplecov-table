@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
     'simplecov-table.gemspec',
   ]
   s.extra_rdoc_files = [
-    'LICENSE.txt',
+    'LICENSE',
     'README.md',
   ]
 end
