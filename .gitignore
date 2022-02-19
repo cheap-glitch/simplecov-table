@@ -1,2 +1,4 @@
+*.env
 /.coverage/
+/.coveralls.yml
 /spec/coverage/
