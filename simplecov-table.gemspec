@@ -9,13 +9,9 @@ Gem::Specification.new do |s|
   s.license      = 'ISC'
   s.require_path = 'lib'
   s.files        = Dir[
-    'LICENSE',
-    'lib/***/*.rb',
-    'spec/**/*.rb',
+    'lib/**/*.rb',
     'simplecov-table.gemspec',
-  ]
-  s.extra_rdoc_files = [
+    'Gemfile',
     'LICENSE',
-    'README.md',
   ]
 end
