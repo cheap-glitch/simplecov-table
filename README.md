@@ -1,7 +1,7 @@
 # 📊 simplecov-table
 
-![License](https://badgen.net/github/license/cheap-glitch/simplecov-table?color=green)
-![Latest release](https://badgen.net/github/release/cheap-glitch/simplecov-table?color=green)
+[![License](https://shields.io/github/license/cheap-glitch/simplecov-table)](LICENSE)
+[![Latest release](https://shields.io/github/v/release/cheap-glitch/simplecov-table?sort=semver&label=latest%20release&color=green)](https://github.com/cheap-glitch/simplecov-table/releases/latest)
 
 This   is   a  custom   [SimpleCov](https://github.com/simplecov-ruby/simplecov)
 formatter that  displays table-formatted summaries  of your coverage  reports in
