@@ -8,7 +8,7 @@ formatter that  displays table-formatted summaries  of your coverage  reports in
 the terminal. It prints the total coverage ratio of each source file, along with
 a compressed list of the uncovered lines.
 
-```text
+```
 ────────────────────┬──────────┬──────────────────────────────────────
  Files              │ Coverage │ Uncovered lines
 ────────────────────┼──────────┼──────────────────────────────────────
@@ -20,7 +20,7 @@ a compressed list of the uncovered lines.
 
 ## Installation
 
-```shell
+```
 gem install simplecov-table
 ```
 
@@ -57,8 +57,8 @@ Contributions are welcomed! Please open an issue before submitting substantial c
 
 ## Related
 
- * [simplecov-erb](https://github.com/kpaulisse/simplecov-erb) - Flexible plain-text formatter that uses ERB templates
- * [simplecov-lcov](https://github.com/fortissimo1997/simplecov-lcov) - Simple LCOV formatter
+ * [`simplecov-erb`](https://github.com/kpaulisse/simplecov-erb) – Flexible plain-text formatter that uses ERB templates
+ * [`simplecov-lcov`](https://github.com/fortissimo1997/simplecov-lcov) – Simple LCOV formatter
 
 ## License
 
